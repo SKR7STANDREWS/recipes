@@ -1,7 +1,7 @@
 
 # Guacamole
-## Ingredients (rough price)
-* avocado (£3 each)
+## Ingredients (rough prices)
+* avocado (£1.75 each)
 * lime (30p each)
 * salt (50p for 100gm)
 
