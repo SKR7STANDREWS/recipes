@@ -1,0 +1,35 @@
+[33mcommit cca3ee8aff683466642d527f09931b4760f67011[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Sai Kiran Rajendran <skr7@st-andrews.ac.uk>
+Date:   Wed Jun 18 12:00:03 2025 +0100
+
+    fix type
+
+[33mcommit d744653872d56bdcf27522c209a0faa44becfe76[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Sai Kiran Rajendran <skr7@st-andrews.ac.uk>
+Date:   Wed Jun 18 10:52:03 2025 +0100
+
+    Ignore png files and pictures folder
+
+[33mcommit 32fa458b8f46d80c513c00d57c40b5a0e5fc0f6a[m
+Author: Sai Kiran Rajendran <skr7@st-andrews.ac.uk>
+Date:   Wed Jun 18 10:32:24 2025 +0100
+
+    Prices and sources
+
+[33mcommit 8157ed2773ef39a922ac33a12f07e2fab394e950[m
+Author: Sai Kiran Rajendran <skr7@st-andrews.ac.uk>
+Date:   Wed Jun 18 10:14:04 2025 +0100
+
+    Modify guacamole to traditional recipe
+
+[33mcommit 2558535db1ce8be4f648d50f86661e68974fc705[m
+Author: Sai Kiran Rajendran <skr7@st-andrews.ac.uk>
+Date:   Wed Jun 18 10:08:29 2025 +0100
+
+    Add ingredients for basic guacamole
+
+[33mcommit ef512eeadb993f656e761446d4910be8f43fc894[m
+Author: Sai Kiran Rajendran <skr7@st-andrews.ac.uk>
+Date:   Wed Jun 18 10:00:35 2025 +0100
+
+    Create initial structure for Guacamole recipe
